@@ -1,15 +1,18 @@
 {
 	"compilerOptions": {
 		"incremental": true, /* Enable incremental compilation */
-		"target": "es5", /* Specify ECMAScript target version: */
+		"outDir": "dist/",
+		"lib": [
+			"es2016"
+		],
 		"module": "commonjs", /* 'none', 'commonjs', 'amd', 'system', etc */
 		"declaration": true, /* Concatenate & emit output to single file.*/
-		"outDir": "lib", /* Redirect output to the directory. */
 		"esModuleInterop": true, /* Enables intero between CommonJS and ES */
 		"skipLibCheck": true, /* Skip type checking of declaration files. */
 		"forceConsistentCasingInFileNames": true /* Disallow inconsistently */
 	},
+	"files": ["./src/index.ts"],
 	"include": [
-		"src"
+		"src/**/*.ts"
 	]
 }

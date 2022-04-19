@@ -1,17 +1,27 @@
 {
   "name": "capsule-config",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "1.1.8",
+  "description": "Shared assets between capsule-vue and capsule-authordashboard",
+  "main": "dist/index.js",
+  "typings": "dist/index",
+  "homepage": "https://github.com/capsulesocial/capsule-config",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capsulesocial/capsule-config.git"
+  },
   "scripts": {
-    "build": "npx tsc && npm link"
+    "build": "npx tsc",
+    "link": "npx tsc && npm link"
   },
   "files": [
     "./css/tailwind.css",
-    "./lib/index.js"
+    "dist/"
   ],
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "Capsule Social",
+    "Blogchain"
+  ],
+  "author": "Jack Dishman <jack@capsule.social>",
   "license": "ISC",
   "dependencies": {
     "@tailwindcss/typography": "^0.5.2",
