@@ -61,7 +61,8 @@ var config = {
                 darkButtonText: "#FFFFFF"
             },
             boxShadow: {
-                lg: "1px 2px 20px rgba(0, 0, 0, 0.07)"
+                lg: "1px 2px 20px rgba(0, 0, 0, 0.07)",
+                sm: "1px 2px 20px rgba(0, 0, 0, 0.03)"
             },
             width: {
                 327: "327px",

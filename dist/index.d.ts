@@ -60,6 +60,7 @@ declare const config: {
             };
             boxShadow: {
                 lg: string;
+                sm: string;
             };
             width: {
                 327: string;
