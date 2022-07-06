@@ -37,6 +37,7 @@ const config = {
 				gray5: `#777777`,
 				// gray6: '#454545',
 				gray7: `#686868`,
+				hoverPost: `#FAFAFA`,
 				neutralLightest: `#F6F6F6`,
 				positive: `#1F7DAD`,
 				neutral: `#F0B785`,
@@ -53,7 +54,7 @@ const config = {
 				lightButtonText: `#FFFFFF`,
 
 				darkBG: `#121212`,
-				darkBGStop: `rgba(46, 46, 46, 0.95)`,
+				darkBGStop: `rgba(46, 46, 46, 1)`,
 				darkBGStart: `rgba(46, 46, 46, 0.90)`,
 				darkBorder: `rgba(256, 256, 256, 0.05)`,
 				darkPrimaryText: `#FFFFFF`,
