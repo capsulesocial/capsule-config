@@ -1,6 +1,6 @@
 {
   "name": "@capsulesocial/capsule-config",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "Shared assets between capsule-vue and capsule-authordashboard",
   "main": "dist/index.js",
   "typings": "dist/index",
