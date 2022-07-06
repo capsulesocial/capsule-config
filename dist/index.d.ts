@@ -35,6 +35,7 @@ declare const config: {
                 gray3: string;
                 gray5: string;
                 gray7: string;
+                hoverPost: string;
                 neutralLightest: string;
                 positive: string;
                 neutral: string;
