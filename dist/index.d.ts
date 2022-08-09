@@ -89,6 +89,7 @@ declare const config: {
                 61: string;
                 70: string;
                 80: string;
+                115: string;
                 120: string;
                 130: string;
                 150: string;
@@ -96,6 +97,7 @@ declare const config: {
                 170: string;
                 180: string;
                 200: string;
+                210: string;
                 220: string;
                 230: string;
                 240: string;
@@ -106,6 +108,7 @@ declare const config: {
                 61: string;
                 70: string;
                 80: string;
+                115: string;
                 120: string;
                 130: string;
                 150: string;
@@ -113,6 +116,7 @@ declare const config: {
                 170: string;
                 180: string;
                 200: string;
+                210: string;
                 220: string;
                 230: string;
                 240: string;
