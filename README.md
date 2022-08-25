@@ -5,3 +5,7 @@ This is a shared package between [capsule-vue](https://github.com/capsulesocial/
 Commands:
 To build and deploy: run `yarn run build`
 To push package version update to NPM registry, run `yarn publish`
+
+## License
+
+[GNU AFFERO GENERAL PUBLIC LICENSE 3](./LICENSE)
